@@ -39,3 +39,4 @@ while(True):
         case 5:sys.exit(0)
         case _:print("Invalid input")
 
+print("------_______------")
